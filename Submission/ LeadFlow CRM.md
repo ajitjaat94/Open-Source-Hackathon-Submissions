@@ -54,8 +54,8 @@ https://lead-flow-crm-tau.vercel.app/
 * [x] My project is public on GitHub
 * [x] My repository has a proper README.md
 * [x] I have added setup/installation instructions
-* [ ] I have added screenshots/demo where possible
-* [ ] I have added a license file
+* [x] I have added screenshots/demo where possible
+* [x] I have added a license file
 * [x] My project is original and built/updated during the hackathon period
 
 ---
